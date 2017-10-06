@@ -85,9 +85,9 @@ Thank you for your suggestions!
 
 #### Javascript
 
+* [Awais Mirza - complete javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VdVNddvRTj68X6miAWQ5pz)
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-* [Awais Mirza - complete javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VdVNddvRTj68X6miAWQ5pz)
 
 #### JQuery
 
@@ -96,8 +96,9 @@ Thank you for your suggestions!
 #### Python
 
 * [Awais Mirza - Python tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VUdTKFlqGX7uF1uH1Yps6Y)
-* [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+* [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+
 
 
 #### Ruby
@@ -117,8 +118,8 @@ Thank you for your suggestions!
 
 #### Redux
 
-* [LearnCode.academy - Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 * [CodeWithTim - Redux Made Easy](https://www.youtube.com/playlist?list=PLoAsubXIl8uKWBxNNZL_-OuXtcu82-aFN)
+* [LearnCode.academy - Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 
 #### Golang
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
