@@ -153,7 +153,7 @@ Thank you for your suggestions!
 ## Portuguese 
 
 ### Websites
-
+* [Code Saga](https://codesaga.com.br)
 * [Quaddro](http://www.quaddro.com.br)
 
 ### Youtube Playlists
