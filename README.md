@@ -83,7 +83,6 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 * [URI Online Judge](https://www.urionlinejudge.com)
-* [W3schools](https://www.w3schools.com/)
 
 
 
@@ -93,10 +92,10 @@ Thank you for your suggestions!
 * [Ben Awad](https://www.youtube.com/user/99baddawg)
 * [blondiebytes](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg)
 * [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg/)
+* [Codesmith](https://www.youtube.com/channel/UCAU_6P-M2VHKePIpu5736ag)
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
-* [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners/)
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers)
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
@@ -224,10 +223,6 @@ Thank you for your suggestions!
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
 * [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
 
-#### Svelte
-
-*[Learn the Svelte JavaScript Framework - Full Course](https://www.youtube.com/watch?v=ujbE0mzX-CU&t=682s&ab_channel=freeCodeCamp.org)
-
 #### Swift
 
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
@@ -273,7 +268,6 @@ Thank you for your suggestions!
 ### Youtube Channels
 
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
-* [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 * [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 
